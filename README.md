@@ -324,6 +324,9 @@ This section includes the cross-lingual KGC that is extended from the original E
 1. **"Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment".**
 *Zhuo Chen, Lingbing Guo, Yin Fang, Yichi Zhang, Jiaoyan Chen, Jeff Z. Pan, Yangning Li, Huajun Chen, Wen Zhang.* (ISWC 2023) \[[paper](https://arxiv.org/abs/2307.16210)\]\[[code](https://github.com/zjukg/UMAEA)\]
 
+1. **"Knowledge graph embedding methods for entity alignment: experimental review".**
+*N Fanourakis, V Efthymiou, D Kotzinos, V Christophides.* (DMKD 2023) \[[paper](https://link.springer.com/content/pdf/10.1007/s10618-023-00941-9.pdf)\]\[[code](https://github.com/fanourakis/experimental-review-EA)\]
+
 ## Preprints
 
 This section contains selected promising preprints.
@@ -346,12 +349,15 @@ This section contains selected promising preprints.
 1. **"Universal Multi-modal Entity Alignment via Iteratively Fusing Modality Similarity Paths".** 
 *Bolin Zhu, Xiaoze Liu, Xin Mao, Zhuo Chen, Lingbing Guo, Tao Gui, Qi Zhang.* (arXiv 2023) \[[paper](https://arxiv.org/abs/2310.05364)\]\[[code]()\]
 
+1. **"HybEA: Hybrid Models for Entity Alignment".**
+*Nikolaos Fanourakis, Fatia Lekbour, Guillaume Renton, Vasilis Efthymiou, Vassilis Christophides.* (arxiv 2025) \[[paper](https://arxiv.org/pdf/2407.02862)\]\[[code](https://github.com/fanourakis/HybEA)\]
+
+
 ## Tools
 
 1. **OpenEA** \[[repo](https://github.com/nju-websoft/OpenEA)\]: a TensorFlow-based EA framework.
 
 1. **EAkit** \[[repo](https://github.com/THU-KEG/EAkit)\]: a PyTorch-based EA framework.
-
 
 ## Comments
 
